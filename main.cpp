@@ -3,7 +3,7 @@
 #include <iomanip>
 #include <Windows.h>
 
-#define PATH "D:\\Vtable\\virtual_table.exe"
+#define PATH ""
 
 #define Is2power(x) (!(x & (x - 1)))
 #define ALIGN_DOWN(x, align) (x & ~(align - 1))
